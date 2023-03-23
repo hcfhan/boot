@@ -6,5 +6,5 @@ import lombok.Data;
 
 public class User {
     String name;
-    int age;
+   
 }
